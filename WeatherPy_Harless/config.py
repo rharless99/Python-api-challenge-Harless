@@ -1,1 +1,0 @@
-api_key = "Insert you API KEY HERE"
